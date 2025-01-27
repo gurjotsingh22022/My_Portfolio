@@ -2,7 +2,7 @@
 
 ![Portfolio Website Banner](https://raw.githubusercontent.com/gurjotsingh22022/My_Portfolio/refs/heads/main/public/projects.png)
 
-Welcome to the repository for my **Portfolio Website**[https://gurjotsingh.vercel.app]! This website serves as a showcase of my skills, experience, and projects. Built with cutting-edge technologies, it highlights my journey as a developer and provides a seamless, interactive user experience.
+Welcome to the repository for my [**Portfolio Website**](https://gurjotsingh.vercel.app)! This website serves as a showcase of my skills, experience, and projects. Built with cutting-edge technologies, it highlights my journey as a developer and provides a seamless, interactive user experience.
 
 ---
 
